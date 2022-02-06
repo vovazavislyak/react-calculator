@@ -20,7 +20,7 @@ const App = () => {
     }
 
     const handleOperation = (operation) => {
-        if (secondRow === "") {
+        if (isNaN(secondRow)) {
             return;
         }
 
