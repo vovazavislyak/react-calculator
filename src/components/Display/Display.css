@@ -1,0 +1,21 @@
+.display {
+    height: 80px;
+    background-color: beige;
+    border: 2px solid black;
+    margin: 0 2px 4px 2px;
+    text-align: right;
+    padding: 5px 5px;
+}
+
+.first-row {
+    color: grey;
+    /*padding-top: 5px;*/
+    font-size: 18px;
+    height: 25px;
+}
+
+.second-row {
+    /*font-size: 36px;*/
+    height: 100%;
+    line-height: 50px;
+}

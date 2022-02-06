@@ -1,0 +1,19 @@
+.button {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 60px;
+    width: 70px;
+    background-color: beige;
+    border: 2px solid black;
+    cursor: grab;
+    margin: 2px;
+}
+
+.button-text {
+    font-size: 35px;
+    padding: 0;
+    margin: 0;
+    font-family: Consolas, serif;
+    line-height: 60px;
+}
